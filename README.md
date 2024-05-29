@@ -1,6 +1,8 @@
 # JALA-submission
-For model deployment:
+For model deployment of Gradient Boosting Regression:
+
 API Usage
+
 The API endpoint for predictions is /predict. Send a POST request with JSON data containing the features.
 
 Example Request:
