@@ -1,0 +1,7 @@
+{
+    "dict_status": {
+        "partial": 0,
+        "full": 1,
+        "failed": 2
+    }
+}
