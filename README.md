@@ -1,5 +1,5 @@
 # JALA-submission
-For model deployment of Gradient Boosting Regression:
+For model deployment of Decision Tree:
 
 API Usage
 
