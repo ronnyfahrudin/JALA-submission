@@ -45,3 +45,11 @@ curl -X POST \
         ]' \
     http://localhost:5000/predict
 ```
+example if using input.json file:
+```bash
+curl -X POST \
+    -H "Content-Type: application/json" \
+    --data @./input/input.json \
+    http://localhost:5000/predict
+
+```
