@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "FCR": 1.5,
+        "days_difference": 10,
+        "initial_age": 20,
+        "limit_weight_per_area": 2.5,
+        "target_size": 100,
+        "total_seed_type": 2,
+        "harvested_size": 90,
+        "status": "partial",
+        "morning_temperature": 28,
+        "evening_temperature": 27,
+        "morning_do": 5,
+        "morning_salinity": 20,
+        "morning_pH": 7.5,
+        "transparency": 0.8,
+        "started_at_year": 2021,
+        "last_mortality_day": 50,
+        "sampled_at_day": 120
+    },
+    {
+        "id": 2,
+        "FCR": 1.6,
+        "days_difference": 12,
+        "initial_age": 22,
+        "limit_weight_per_area": 2.7,
+        "target_size": 110,
+        "total_seed_type": 2,
+        "harvested_size": 95,
+        "status": "partial",
+        "morning_temperature": 27,
+        "evening_temperature": 26,
+        "morning_do": 4.8,
+        "morning_salinity": 19,
+        "morning_pH": 7.4,
+        "transparency": 0.7,
+        "started_at_year": 2021,
+        "last_mortality_day": 55,
+        "sampled_at_day": 130
+    }
+]
