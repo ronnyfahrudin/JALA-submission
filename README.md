@@ -1,6 +1,10 @@
 # JALA-submission
 For model deployment of Decision Tree:
-
+1. Run in Docker with this command:
+```docker build -t jala-app .```
+2. after docker image created with the name jala-app. we can run with this command:
+```docker run -p 5000:5000 jala-app```
+3. Then use this API usage:
 API Usage
 
 The API endpoint for predictions is /predict. Send a POST request with JSON data containing the features.
